@@ -1,0 +1,10 @@
+netmiko
+rich
+cd ~/Documents/Labs/TP-OSPF/TP07-OSPF-Multi-Area
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+pip install -r scripts/requirements.txt
+
+python3 scripts/verify_ospf.py
