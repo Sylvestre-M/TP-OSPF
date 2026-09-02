@@ -43,21 +43,14 @@ Chaque TP est documenté et comprend :
 | TP01 | OSPF Single Area | 🟢 Débutant | ✅ |
 | TP02 | Élection DR / BDR | 🟢 Débutant | ✅ |
 | TP03 | Passive Interface | 🟢 Débutant | ⏳ |
-| TP04 | Modification du coût OSPF | 🟢 Débutant | ⏳ |
-| TP05 | Bande passante et métrique | 🟡 Intermédiaire | ⏳ |
-| TP06 | Route par défaut | 🟡 Intermédiaire | ⏳ |
-| TP07 | OSPF Multi-Area | 🟡 Intermédiaire | ⏳ |
-| TP08 | Résumé de routes | 🟡 Intermédiaire | ⏳ |
-| TP09 | Authentification OSPF | 🟡 Intermédiaire | ⏳ |
-| TP10 | Redistribution RIP ↔ OSPF | 🔴 Avancé | ⏳ |
-| TP11 | Stub Area | 🔴 Avancé | ⏳ |
-| TP12 | Totally Stub Area | 🔴 Avancé | ⏳ |
-| TP13 | NSSA | 🔴 Avancé | ⏳ |
-| TP14 | Virtual Link | 🔴 Avancé | ⏳ |
-| TP15 | Dépannage OSPF | 🔴 Avancé | ⏳ |
-| TP16 | Analyse des LSA | 🔴 Avancé | ⏳ |
+| TP04 | Modification du coût OSPF | 🟢 Débutant | ✅ |
+| TP05 | Bande passante et métrique | 🟡 Intermédiaire | ✅ |
+| TP06 | Route par défaut | 🟡 Intermédiaire | ✅ |
+| TP07 | OSPF Multi-Area | 🟡 Intermédiaire | ✅ |
+| TP08 | Résumé de routes | 🟡 Intermédiaire | ✅ |
+| TP09 | Authentification OSPF | 🟡 Intermédiaire | ✅ |
+| TP10 | Redistribution RIP ↔ OSPF | 🔴 Avancé | ✅ |
 | TP17 | OSPF avec HSRP | 🔴 Avancé | ⏳ |
-| TP18 | Projet OSPF d'entreprise | ⭐ Expert | ⏳ |
 
 ---
 
@@ -80,14 +73,7 @@ TP-OSPF/
 ├── TP08-Route-Summarization/
 ├── TP09-OSPF-Authentication/
 ├── TP10-RIP-to-OSPF-Redistribution/
-├── TP11-Stub-Area/
-├── TP12-Totally-Stub-Area/
-├── TP13-NSSA/
-├── TP14-Virtual-Link/
-├── TP15-Troubleshooting/
-├── TP16-LSA-Analysis/
-├── TP17-OSPF-HSRP/
-└── TP18-Enterprise-Project/
+└── TP17-OSPF-HSRP/
 ```
 
 ---
