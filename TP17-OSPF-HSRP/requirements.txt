@@ -1,0 +1,3 @@
+netmiko
+PySide6
+Pillow
