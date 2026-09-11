@@ -335,9 +335,9 @@ Ne jamais publier :
 | RIP v2 | ✅ |
 | OSPF Area 0 | ✅ |
 | Vérification OSPF | ✅ |
-| OSPF → RIP | 🔄 |
-| RIP → OSPF | ⏳ |
-| Vérification finale | ⏳ |
+| OSPF → RIP | ✅ |
+| RIP → OSPF | ✅ |
+| Vérification finale | ✅ |
 
 ## 👨‍💻 Auteur
 
